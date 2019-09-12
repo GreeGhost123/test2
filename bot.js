@@ -1,9 +1,4 @@
 
-var client = new client("");
-client.on("ready", () => {
-    console.log("Yo! Changer [ON]");
-    onstart();
-});
 client = "621423685567381540";
 nick = "Draw-Bot";
 function onstart(){
@@ -20,10 +15,9 @@ var client = ' ';
      }
      var v2 = v1[i];
     cleint += v2;
-    client.editNickname(x5bz, x5bz2);
  
         i++;
    
      }, 1000);
 }
-client.connect();
+client.on();
