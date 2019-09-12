@@ -1,4 +1,4 @@
-const client = require("client");
+
 var client = new client("");
 client.on("ready", () => {
     console.log("Yo! Changer [ON]");
