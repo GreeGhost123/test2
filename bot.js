@@ -1,11 +1,11 @@
 const Eris = require("eris");
-var x5bzteam = new Eris("NDYyMDI4ODQ0NTQzNTA4NDkw.DzZT3A.iStia_inktUg5zGXV01p9qnq1mA");
+var x5bzteam = new Eris("NjE5ODU3NjAxNDg3ODMxMDUx.XXpV7g.GtdPNom18YYkvM5wr2i0-x_5dkg");
 x5bzteam.on("ready", () => {
     console.log("Yo! Changer [ON]");
     onstart();
 });
-x5bz = "484341267422117890";
-nick = "NiCho_Alonzo";
+x5bz = "621423685567381540";
+nick = "Draw-Bot☥";
 function onstart(){
     var v1 = nick.split('');
     var counter;
